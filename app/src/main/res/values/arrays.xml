@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_Type_valus">
+        <item>@string/pref_Type_Popular</item>
+        <item>@string/pref_Type_Top</item>
+        <item>@string/pref_Favorite_Favorite</item>
+    </string-array>
+    <string-array name="pref_Type_options">
+        <item>@string/pref_Type_Popular</item>
+        <item>@string/pref_Type_Top</item>
+        <item>@string/pref_Favorite_Favorite</item>
+    </string-array>
+    <string-array name="pref_Favorite_valus">
+        <item>@string/pref_Favorite_All</item>
+        <item>@string/pref_Favorite_Favorite</item>
+    </string-array>
+    <string-array name="pref_Favorite_options">
+        <item>@string/pref_Favorite_All</item>
+        <item>@string/pref_Favorite_Favorite</item>
+    </string-array>
+</resources>
